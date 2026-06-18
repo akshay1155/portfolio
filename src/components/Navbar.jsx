@@ -22,6 +22,7 @@ const Navbar = () => {
         
         <div className={`nav-links ${isMenuOpen ? 'open' : ''}`}>
           <a href="#experience" onClick={() => setIsMenuOpen(false)}>Experience</a>
+          <a href="#projects" onClick={() => setIsMenuOpen(false)}>Projects</a>
           <a href="#skills" onClick={() => setIsMenuOpen(false)}>Skills</a>
           <a href="#certifications" onClick={() => setIsMenuOpen(false)}>Certifications</a>
           <a href="#education" onClick={() => setIsMenuOpen(false)}>Education</a>

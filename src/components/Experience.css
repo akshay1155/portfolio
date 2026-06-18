@@ -33,7 +33,7 @@
   border-radius: 50%;
   background: var(--bg-color);
   border: 3px solid var(--accent-primary);
-  box-shadow: 0 0 15px var(--accent-primary);
+  box-shadow: 0 0 12px rgba(201, 169, 110, 0.35);
   z-index: 1;
 }
 

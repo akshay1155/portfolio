@@ -1,5 +1,5 @@
 .footer {
-  background: #050505;
+  background: #070911;
   padding: 4rem 0 0;
   border-top: 1px solid var(--surface-border);
 }
@@ -35,7 +35,7 @@
 
 .social-link:hover {
   background: var(--accent-primary);
-  color: #000;
+  color: #0b0d17;
   transform: translateY(-3px);
 }
 

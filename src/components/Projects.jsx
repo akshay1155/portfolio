@@ -13,7 +13,7 @@ const projects = [
         tech: ['GCP', 'Terraform', 'GitHub Actions', 'Cloud Run', 'Firebase', 'Firestore'],
       },
       {
-        title: 'PMZ Real Estate – Legacy Infrastructure Migration',
+        title: 'Legacy Infrastructure Migration',
         description:
           'Migrated 15+ legacy applications and databases (SQL Server, PostgreSQL) from Windows Server 2008/2012 environments to modern infrastructure with zero downtime. Included Active Directory Domain Controller migration and end-to-end validation of all dependent services.',
         tech: ['Windows Server', 'SQL Server', 'PostgreSQL', 'Active Directory', 'Migration'],
